@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>A 4th year computer science undergraduate at Indian Institute of Information Technology Vadodara.A vivid reader and an open source developer who's trying to get his hands dirty in development.</p>
+<p>A 4th year computer science undergraduate at Indian Institute of Information Technology Vadodara. A vivid reader and an open source developer who's trying to get his hands dirty in development.</p>
 
 <h2>Skills</h2>
 
